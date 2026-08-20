@@ -1,5 +1,5 @@
 **Name:** Shaun Rodric B. Dy
-**Section:** 9 - Platinim
+**Section:** 9 - Platinum
 **Last Name:** Dy
 **Date:** August 20, 2026
 
