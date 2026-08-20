@@ -1,3 +1,8 @@
+**Name:** Shaun Rodric B. Dy
+**Section:** 9 - Platinim
+**Last Name:** Dy
+**Date:** August 20, 2026
+
 def get_chinese_zodiac():
     
 zodiac_signs = [
