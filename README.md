@@ -6,4 +6,8 @@ Section : 9 - Platinum
 Facebook : Shaun Rodric Dy
 Email : srbdy@brc.pshs.edu.ph
 
-[View my Computational Thinking Exercise](q1/ctskillsPlatinumDy.md)
+QUARTER 1 :
+
+[View my Computational Thinking Exercise! (,; ⩌ ;,)](q1/ctskillsPlatinumDy.md)
+
+[View my Chinese Zodiac! (˶˃𐃷˂˶)](q1/zodiacPlatinumDy.md)
