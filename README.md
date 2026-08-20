@@ -5,3 +5,5 @@ Name : Shaun Rodric Dy
 Section : 9 - Platinum
 Facebook : Shaun Rodric Dy
 Email : srbdy@brc.pshs.edu.ph
+
+[View my Computational Thinking Exercise](q1/ctskillsPlatinumDy.md)
