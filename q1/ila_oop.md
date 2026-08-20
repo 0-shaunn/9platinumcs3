@@ -1,3 +1,8 @@
+**Name:** Shaun Rodric B. Dy
+**Section:** 9 - Platinum
+**Last Name:** Dy
+**Date:** August 20, 2026
+
 # ILA 3-1: Applying the Four Pillars of OOP
 
 ## Sari-Sari Store Inventory System
