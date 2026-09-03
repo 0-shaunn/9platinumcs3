@@ -12,4 +12,6 @@ QUARTER 1 :
 
 [View my Chinese Zodiac! (˶˃𐃷˂˶)](q1/zodiacPlatinumDy.md)
 
-[Veiw my ILA 3-1: Applying the Four Pillars of OOP! ( •̯́ ₃ •̯̀) ](q1/ila_oop.md)
+[View my ILA 3-1: Applying the Four Pillars of OOP! ( •̯́ ₃ •̯̀) ](q1/ila_oop.md)
+
+[View my ILA 3-1: Applying the Four Pillars of OOP! ( •̯́ ₃ •̯̀) ](q1/ila_oop.md)
