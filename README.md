@@ -14,4 +14,4 @@ QUARTER 1 :
 
 [View my ILA 3-1: Applying the Four Pillars of OOP! ( •̯́ ₃ •̯̀) ](q1/ila_oop.md)
 
-[View my ILA 3-1: Applying the Four Pillars of OOP! ( •̯́ ₃ •̯̀) ](q1/ila_oop.md)
+[View my Class Object UML! (ᵕ—ᴗ—) ](q1/classObjectUML.md)
