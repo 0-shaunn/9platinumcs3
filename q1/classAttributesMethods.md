@@ -28,7 +28,7 @@ I made the “__current_time” attribute private to protect the playback system
 The “skipForward()” method modifies the state of the private “__current_time” attribute. It receives a duration parameter and adds it to the current time.
 
 ### How did your two objects demonstrate that instances are independent?
-In the test output, calling “skipForward(120.0)” on “anime1” increased its private “__current_time” from “0.0” to “120.0”. Meanwhile, “anime2” retained its initial “__current_time” of “0.0”. This proves that eaxh object maintains its own distinct time.
+In the test output, calling “skipForward(120.0)” on “Haikyu!!” increased its private “__current_time” from “0.0” to “120.0”. Meanwhile, “Jujutsu Kaisen” retained its initial “__current_time” of “0.0”. This proves that each object maintains its own distinct time.
 
 ### What is the difference between your class diagram and your object diagram?
 The class diagram specifies variable names and method signatures. On the other hand, the object diagram represents specific runtime instances containing actual values.
