@@ -19,3 +19,7 @@ QUARTER 1 :
 [View my Class,Attributes, and Methods!(๑>؂•̀๑) ](q1/classAttributesMethods.md)
 
 [View my Class Relationships: Association and Multiplicity ( •̯́ ₃ •̯̀)](q1/classRelationships.md)
+
+[View my Advanced Class Relationships （´∇｀''）](q1/advancedRelationships.md)
+
+
