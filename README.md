@@ -22,4 +22,8 @@ QUARTER 1 :
 
 [View my Advanced Class Relationships （´∇｀''）](q1/advancedRelationships.md)
 
+QUARTER 2 :
+
+[View my Study Guide 8 – Encapsulation ٩(^ᗜ^ )و ´](q2/sg8_encapsulation.py)
+
 
