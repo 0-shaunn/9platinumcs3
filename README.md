@@ -30,4 +30,5 @@ QUARTER 2 :
 
 [View my Study Guide 8 – Encapsulation ٩(^ᗜ^ )و ´](q2/sg8_encapsulation.py)
 
+[View my Study Guide 9 - Inheritance (╥ ᴗ ╥](q2/sg9_inheritance.py)
 
